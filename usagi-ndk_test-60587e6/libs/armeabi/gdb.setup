@@ -1,0 +1,2 @@
+set solib-search-path /home/saitou/workspace/Android-Test/usagi-ndk_test-60587e6/obj/local/armeabi
+directory /home/saitou/android/android-ndk-r8/platforms/android-14/arch-arm/usr/include /home/saitou/android/android-ndk-r8/sources/cxx-stl/gnu-libstdc++ /home/saitou/android/android-ndk-r8/sources/cxx-stl/gnu-libstdc++/include /home/saitou/android/android-ndk-r8/sources/cxx-stl/gnu-libstdc++/libs/armeabi/include /home/saitou/workspace/Android-Test/usagi-ndk_test-60587e6/jni
